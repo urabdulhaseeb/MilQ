@@ -1,0 +1,7 @@
+{
+  "name": "MilQ - Intelligent Milk Analyzer",
+  "description": "AI-powered mobile-first application to detect milk adulterants by comparing before and after test card images using Gemini vision analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
